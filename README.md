@@ -1,1 +1,1 @@
-# DataStructuresAndAlgorithmsPython
+# sortingAlgorithmsPython
